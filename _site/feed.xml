@@ -3,8 +3,8 @@
 	<channel>
 		<title>NN Voting System</title>
 		<description>Voter-Verifiable Casting Correctness E-Voting System.</description>
-		<link>https://camilog.github.io/VotingSystemVotingSystem</link>
-		<atom:link href="https://camilog.github.io/VotingSystemVotingSystem/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://camilog.github.io/VotingSystem/VotingSystem</link>
+		<atom:link href="https://camilog.github.io/VotingSystem/VotingSystem/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>LatinCrypt 2015 Proposal</title>
@@ -15,8 +15,8 @@
 &lt;p&gt;The implementation made of the system aims to the use of user-friendly hardware, and also being very minimal. For the selection process is being used a tablet connected to a printer, because of the familiarity of the users with these devices. The rest of the modules could be implemented in a very minimal hardware, and is recommended for the verification process to being implemented in the less necessary hardware, because this is a crucial step of the system, and with less hardware is a lot easier to audit. In the actual implementation this is made on a Raspberry PI. Finally, the other mobile applications are very minimal and need just a basic smartphone to work.&lt;/p&gt;
 </description>
 				<pubDate>Tue, 28 Jul 2015 00:00:00 -0300</pubDate>
-				<link>https://camilog.github.io/VotingSystemVotingSystem/2015/07/LatinCrypt2015-proposal</link>
-				<guid isPermaLink="true">https://camilog.github.io/VotingSystemVotingSystem/2015/07/LatinCrypt2015-proposal</guid>
+				<link>https://camilog.github.io/VotingSystem/VotingSystem/2015/07/LatinCrypt2015-proposal</link>
+				<guid isPermaLink="true">https://camilog.github.io/VotingSystem/VotingSystem/2015/07/LatinCrypt2015-proposal</guid>
 			</item>
 		
 	</channel>
