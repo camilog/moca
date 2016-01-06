@@ -1,0 +1,3 @@
+[submodule "moca-administrator-app"]
+	path = moca-administrator-app
+	url = https://github.com/niclabs/moca-administrator-app.git
